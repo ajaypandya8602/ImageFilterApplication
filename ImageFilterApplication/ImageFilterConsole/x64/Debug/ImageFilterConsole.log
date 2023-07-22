@@ -1,0 +1,13 @@
+﻿  ImageFilterConsole.cpp
+D:\Last Laptop BKP\d\clg\Projects\ImageFilterApplication\ImageFilterConsole\ImageFilterConsole.cpp(172,48): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Last Laptop BKP\d\clg\Projects\ImageFilterApplication\ImageFilterConsole\ImageFilterConsole.cpp(172,36): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Last Laptop BKP\d\clg\Projects\ImageFilterApplication\ImageFilterConsole\ImageFilterConsole.cpp(292,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ImageFilterConsole.vcxproj -> D:\Last Laptop BKP\d\clg\Projects\ImageFilterApplication\x64\Debug\ImageFilterConsole.exe
