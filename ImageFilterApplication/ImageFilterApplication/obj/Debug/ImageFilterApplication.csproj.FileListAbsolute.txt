@@ -1,0 +1,35 @@
+D:\Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\ImageFilterApplication.exe.config
+D:\Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\ImageFilterApplication.exe
+D:\Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\ImageFilterApplication.pdb
+D:\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.Form1.resources
+D:\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.Properties.Resources.resources
+D:\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csproj.GenerateResource.cache
+D:\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csproj.CoreCompileInputs.cache
+D:\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.exe
+D:\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.pdb
+D:\Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\SimpleTCP.dll
+D:\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csproj.CopyComplete
+D:\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csprojAssemblyReference.cache
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\ImageFilterApplication.exe.config
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\ImageFilterApplication.exe
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\ImageFilterApplication.pdb
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\SimpleTCP.dll
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.Form1.resources
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.Properties.Resources.resources
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csproj.GenerateResource.cache
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csproj.CoreCompileInputs.cache
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csproj.CopyComplete
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.exe
+D:\Projects\My Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.pdb
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\ImageFilterApplication.exe.config
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\ImageFilterApplication.exe
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\ImageFilterApplication.pdb
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\bin\Debug\SimpleTCP.dll
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csprojAssemblyReference.cache
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.Form1.resources
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.Properties.Resources.resources
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csproj.GenerateResource.cache
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csproj.CoreCompileInputs.cache
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.csproj.CopyComplete
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.exe
+D:\clg\Projects\ImageFilterApplication\ImageFilterApplication\obj\Debug\ImageFilterApplication.pdb
